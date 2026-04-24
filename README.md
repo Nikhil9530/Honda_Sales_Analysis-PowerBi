@@ -38,7 +38,8 @@ This project presents an interactive Power BI dashboard analyzing Honda bike sal
 (Add your screenshot here)
 
 ## 🎥 Project Demo
-(Add your video link here - YouTube recommended)
+
+[![Watch Video](Zomato_img.png)]((https://drive.google.com/file/d/1INRdQYZOMKiQeRgqgXbMP_mhkIIQUYcF/view?usp=sharing))
 
 ## 📁 Files Included
 - Power BI Dashboard (.pbix)
