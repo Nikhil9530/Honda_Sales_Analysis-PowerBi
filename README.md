@@ -35,7 +35,7 @@ This project presents an interactive Power BI dashboard analyzing Honda bike sal
 - High customer ratings indicate strong product satisfaction
 
 ## 📸 Dashboard Preview
-(Dashboard.png)
+[![DashboRD](Honda_page.png)]
 
 ## 🎥 Project Demo
 
